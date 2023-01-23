@@ -41,4 +41,4 @@
   });
 </script>
 
-<Parser {tokens} renderers={combinedRenderers} />
+<Parser {tokens} options={combinedOptions} renderers={combinedRenderers} />

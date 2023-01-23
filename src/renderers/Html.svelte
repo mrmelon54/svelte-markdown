@@ -1,5 +1,7 @@
 <script>
+  import DOMPurify from 'dompurify'
+
   export let text
 </script>
 
-{@html text}
+{@html DOMPurify.sanitize(text)}
