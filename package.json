@@ -44,7 +44,7 @@
     "svelte": "^5.53.5",
     "svelte-eslint-parser": "^0.32.1",
     "vite": "^6.4.2",
-    "vitest": "^0.33.0"
+    "vitest": "^4.1.0"
   },
   "dependencies": {
     "@types/marked": "^5.0.1",
